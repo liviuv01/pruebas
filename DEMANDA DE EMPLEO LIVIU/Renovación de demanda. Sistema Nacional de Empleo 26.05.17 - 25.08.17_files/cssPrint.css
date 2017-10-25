@@ -1,0 +1,97 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+
+"http://www.w3.org/TR/html4/loose.dtd">
+
+<html lang="es">
+
+<head>
+
+<title>Sistema Nacional de Empleo. Aviso legal</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META name="language" content="es">
+<style type="text/css">
+
+		@import "estilos.css";
+ul li { list-style-type: none; list-style-image: none; list-style-position: outside;}
+
+
+	</style>
+
+	
+
+
+
+</head>
+
+<body>
+
+<div id="wrapper">
+<p class="idiomas">Bienvenido | <a href="/cat/index.html" lang="ca">Benviguts</a> | <a href="/gal/index.html" lang="gl">Benvidos</a> | <a href="/eu/index.html" lang="eu">Ongi Etorri</a></p>
+
+<div id="cab_interior">
+<h1 class="fueraPantalla">Sistema Nacional de Empleo</h1> 
+<script type="text/javascript" src="readspeaker.js"></script>
+<p class="escuchar_int"><a href="/accesibilidad/accesibilidad.html">Accesibilidad</a> | <a href="/mapa.html">Mapa Web</a> | <a href="http://app.readspeaker.com/cgi-bin/rsent?customerid=4915&amp;lang=es_es&amp;voice=Leonor&amp;output=template" 
+onclick="openAndRead(); return false;" onkeypress="openAndRead(); return false;" accesskey="L" name="rs_button" 
+target="rs" title="Escuchar esta página" 
+>
+<img src="/images/ico_speaker_sne.gif" alt=" " >Escuchar</a></p>
+
+<form name="rs_form" action="http://app.readspeaker.com/cgi-bin/rsent" 
+method="post" target="rs"> 
+<input type="hidden" name="selectedtext"> 
+<input type="hidden" name="customerid" value="4915"> 
+<input type="hidden" name="lang" value="es_es"> 
+<input type="hidden" name="voice" value="Leonor"> 
+<input type="hidden" name="speed" value="100"> 
+<input type="hidden" name="output" value="template"> 
+</form> 
+</div>
+<!-- DIXERIT_START -->
+
+<div class="ariadna"><a href="index.html">Inicio</a> &middot;</div>
+
+
+<div class="contenedorError">
+    <div class="fondoError">
+    	<div class="mensajeErrorAviso">
+    	    <h3>Lo sentimos,</h3>
+    	    <h4>p&aacute;gina no encontrada.</h4>
+    	    <p>Por favor, revisa que la direcci&oacute;n est&aacute; bien escrita y si no, prueba a utilizar el buscador o el <a href="http://www.sne.es/mapa.html" title="mapa web Sepe">mapa web</a> para localizar el contenido que est&aacute;s buscando.</p>
+            <div class="cajaBuscador404">
+                                    <div class="buscador404">
+                                    <form action="http://www.sepe.es/speebuscador/buscar.do">
+                                        <label class="ocultar" for="q1">Buscador:</label>
+                                        <input type="text" onfocus="javascript:vaciar(this,'Buscar en SEPE...');" name="q" title="Buscar en SEPE" value="" maxlength="256" id="q1" class="buscador w25">
+                                        <input type="submit" class="buttonSubmit" title="Buscar" value="Buscar"> 
+                                    </form>
+                                    </div>
+                                </div>
+            
+    	    <p>Disculpa las molestias. </p>
+            
+        </div>
+    	<div class="imgAvisoError"><img src="/images/error404.png" alt="Error al cargar la p&aacute;gina"/></div>
+    </div>
+    
+    <!-- DIXERIT_STOP --> 
+<div id="pie">
+<img src="/images/pie.gif" width="767" height="28" alt="html 4.01 validado, css validado, wai-AA validado" />
+<p class="fueraPantalla">&copy; Sistema Nacional de Empleo, 2011. </p> 
+</div>
+
+    
+</div>
+
+
+
+</div>
+
+
+
+</div>
+
+</body>
+
+</html>
+
